@@ -2,9 +2,6 @@
 
 ### I'm a Software Developer based out of Chennai, India :india:!!
 
-<!-- - 🥅 I'm looking forward to contributing to more OSS projects
- -->
-
 ---
 
 ### Experience: 👩‍💼
@@ -68,13 +65,8 @@
 ---
 
 <br>
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Shylajhaa's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shylajhaa&show_icons=true&hide_border=true" />
-
-</details>
- -->
+ 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shylajhaa&show_icons=true&theme=github_dark" alt="Shylajhaa" />
 
 [medium]: https://shylajhaa.medium.com/
 [linkedin]: https://www.linkedin.com/in/shylajhaa-sathyaram/
