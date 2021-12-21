@@ -2,6 +2,8 @@
 
 ### I'm a Software Developer based out of Chennai, India :india:!!
 
+<p align="center"><a href="https://app.daily.dev/Shylajhaa"><img src="https://api.daily.dev/devcards/e0390e604a014ccf9a40283c77afe8b3.png?r=h8r" width="200px" alt="Shylajhaa Sathyaram's Dev Card"/></a></p>
+
 ---
 
 ### Experience: 👩‍💼
